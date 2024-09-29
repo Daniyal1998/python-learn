@@ -1,0 +1,10 @@
+[virtualenvs]
+in-project = true
+create = true
+prefer-active-python = false
+
+[virtualenvs.options]
+always-copy = true
+no-pip = false
+system-site-packages = false
+no-setuptools = false
