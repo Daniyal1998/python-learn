@@ -1,6 +1,7 @@
-from abc import ABC, abstractmethod
-import typing
 import random
+import typing
+
+from abc import ABC, abstractmethod
 
 
 class OrderingStrategy(ABC):
