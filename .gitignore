@@ -1,2 +1,4 @@
 .token
 .cache
+
+__pycache__/
